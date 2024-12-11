@@ -1,6 +1,7 @@
 # `The-MikuBot-MDV5` 
 ![download](https://github.com/user-attachments/assets/518171be-dd71-4ca3-96cc-76f1cb7479dd)
 
+![steamuserimages-a akamaihd](https://github.com/user-attachments/assets/a24fec6b-282d-4153-9034-2348b5965899)
 
 ### `▢ AJUSTES`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV5/fork)
