@@ -95,7 +95,7 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["595976126756", 'AdrianOficial 💻', 1], 
+["573225218834", 'AdrianOficial 💻', 1], 
 ["595982216131", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ["595994825505", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]]
 
@@ -137,7 +137,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "𝑻𝒉𝒆-𝑴𝒊𝒌𝒖𝑩𝒐𝒕-𝑴𝑫𝑽5 𝑩𝒚 𝑨𝒅𝒓𝒊𝒂𝒏𝑶𝒇𝒊𝒄𝒊𝒂𝒍"
 global.igfg = "𝑇ℎ𝑒-𝑀𝑖𝑘𝑢𝐵𝑜𝑡-𝑀𝐷𝑉5"
-global.nomorown = "595994836199"
+global.nomorown = "573225218834"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
