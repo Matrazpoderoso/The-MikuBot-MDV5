@@ -1,4 +1,5 @@
 # `The-MikuBot-MDV5` 
+![download](https://github.com/user-attachments/assets/518171be-dd71-4ca3-96cc-76f1cb7479dd)
 
 
 ### `▢ AJUSTES`
