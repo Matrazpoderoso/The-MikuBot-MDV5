@@ -4,7 +4,7 @@
 
 ### `▢ AJUSTES`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV5/fork)
-- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV5/blob/master/config.js)
+- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/Matrazpoderoso/The-MikuBot-MDV5/blob/master/config.js)
   
 
 ### `▢ ACTIVAR EN TERMUX` 
